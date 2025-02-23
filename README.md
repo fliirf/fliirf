@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fliirf
-- 👀 I’m interested in Mobile Programming
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Web & Mobile Developer
+- 🌱 I’m currently learning Flutter and Javascript/ReactJS
 - 📫 How to reach me email : mhdrflii843@gmail.com
 
 
