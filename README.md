@@ -18,11 +18,18 @@ I enjoy building products across different domains, from web and mobile applicat
 * JavaScript
 * Python
 * Dart
+* C++
+* Java
+* Rust
+* Go
+* PHP
+
 
 ### Frameworks & Tools
 
 * React
 * Flutter
+* Laravel
 * Git & GitHub
 * Figma
 
