@@ -40,21 +40,13 @@ Peer-to-peer commerce on social media, with USDC locked in a Soroban smart contr
 
 ## 05 / Selected Tools
 
-| | | |
-|---|---|---|
-| TypeScript | React | Next.js |
-| Laravel | PHP | Flutter |
-| PostgreSQL | MySQL | Rust / Soroban |
+<img src="assets/tools-editorial.svg" alt="Selected tools: TypeScript, React, Next.js, Laravel, PHP, Flutter, PostgreSQL, MySQL, Rust with Soroban" width="100%" />
 
 <br />
 
 ## 06 / Current Focus
 
-| | |
-|---|---|
-| **Building** | Digital products and developer tools |
-| **Exploring** | Machine learning and decentralized systems |
-| **Learning** | Better system design and product thinking |
+<img src="assets/focus-editorial.svg" alt="Current focus: building digital products and developer tools, exploring machine learning and decentralized systems, learning better system design and product thinking" width="100%" />
 
 <br />
 
@@ -62,7 +54,7 @@ Peer-to-peer commerce on social media, with USDC locked in a Soroban smart contr
 
 Open to thoughtful projects, collaborations, and conversations.
 
-[LinkedIn](https://www.linkedin.com/in/muhamadrafli843/) / [Email](mailto:mhdrflii843@gmail.com)
+**[LinkedIn](https://www.linkedin.com/in/muhamadrafli843/)** · **[Email](mailto:mhdrflii843@gmail.com)**
 
 <br />
 

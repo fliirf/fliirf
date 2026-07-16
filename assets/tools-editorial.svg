@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-label="Selected tools: TypeScript, React, Next.js, Laravel, PHP, Flutter, PostgreSQL, MySQL, Rust with Soroban.">
+  <rect width="1200" height="300" fill="#F3F1EC"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" fill="none" stroke="#CBC7BE"/>
+
+  <text x="72" y="54" font-family="Inter, ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" letter-spacing="3" fill="#77746D">SELECTED TOOLS</text>
+  <text x="1128" y="54" text-anchor="end" font-family="Inter, ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" letter-spacing="3" fill="#77746D">05</text>
+  <line x1="72" y1="70" x2="1128" y2="70" stroke="#CBC7BE"/>
+
+  <g font-family="Inter, ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#161616">
+    <text x="72" y="136">TypeScript</text>
+    <text x="452" y="136">React</text>
+    <text x="832" y="136">Next.js</text>
+    <text x="72" y="196">Laravel</text>
+    <text x="452" y="196">PHP</text>
+    <text x="832" y="196">Flutter</text>
+    <text x="72" y="256">PostgreSQL</text>
+    <text x="452" y="256">MySQL</text>
+    <text x="832" y="256">Rust / Soroban</text>
+  </g>
+  <g stroke="#CBC7BE">
+    <line x1="72" y1="156" x2="380" y2="156"/>
+    <line x1="452" y1="156" x2="760" y2="156"/>
+    <line x1="832" y1="156" x2="1128" y2="156"/>
+    <line x1="72" y1="216" x2="380" y2="216"/>
+    <line x1="452" y1="216" x2="760" y2="216"/>
+    <line x1="832" y1="216" x2="1128" y2="216"/>
+  </g>
+</svg>
