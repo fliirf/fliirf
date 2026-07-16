@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 420" role="img" aria-label="AKHLAK360. 360-degree employee assessment. Project cover with a radial diagram of six evaluation perspectives.">
+  <rect width="680" height="420" fill="#F3F1EC"/>
+  <rect x="0.5" y="0.5" width="679" height="419" fill="none" stroke="#CBC7BE"/>
+
+  <text x="48" y="48" font-family="Inter, ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" letter-spacing="3" fill="#77746D">ORGANIZATIONAL ASSESSMENT</text>
+  <line x1="48" y1="62" x2="632" y2="62" stroke="#CBC7BE"/>
+
+  <text x="45" y="128" font-family="Inter, ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="-1" fill="#161616">AKHLAK360</text>
+
+  <!-- radial evaluation structure: six perspectives around a center -->
+  <g stroke="#CBC7BE" fill="none">
+    <circle cx="340" cy="252" r="86"/>
+    <line x1="340" y1="166" x2="340" y2="196"/>
+    <line x1="414" y1="209" x2="388" y2="224"/>
+    <line x1="414" y1="295" x2="388" y2="280"/>
+    <line x1="340" y1="338" x2="340" y2="308"/>
+    <line x1="266" y1="295" x2="292" y2="280"/>
+    <line x1="266" y1="209" x2="292" y2="224"/>
+  </g>
+  <circle cx="340" cy="252" r="5" fill="#315C4C"/>
+  <g font-family="Inter, ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" letter-spacing="1.5" fill="#77746D">
+    <text x="340" y="152" text-anchor="middle">AMANAH</text>
+    <text x="428" y="204" text-anchor="start">KOMPETEN</text>
+    <text x="428" y="308" text-anchor="start">HARMONIS</text>
+    <text x="340" y="360" text-anchor="middle">LOYAL</text>
+    <text x="252" y="308" text-anchor="end">ADAPTIF</text>
+    <text x="252" y="204" text-anchor="end">KOLABORATIF</text>
+  </g>
+
+  <line x1="48" y1="352" x2="632" y2="352" stroke="#CBC7BE" stroke-width="1"/>
+  <g font-family="Inter, ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#77746D">
+    <text x="48" y="384">Laravel / MySQL</text>
+    <text x="632" y="384" text-anchor="end" fill="#315C4C">COMPLETE / ACADEMIC MVP</text>
+  </g>
+</svg>
