@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:000000,50:0d1117,100:000000&text=MUHAMAD%20RAFLI&fontSize=48&fontColor=e6edf3&fontAlignY=45&desc=software%20engineer&descSize=16&descColor=a371f7&descAlignY=72" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:2d1b4e,100:a371f7&text=MUHAMAD%20RAFLI&fontSize=48&fontColor=e6edf3&fontAlignY=38&desc=software%20engineer&descSize=16&descColor=e6edf3&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=A371F7&center=true&vCenter=true&width=440&lines=software+engineer;blockchain+%2F+ai+%2F+full-stack" alt="typing" />
@@ -76,9 +76,17 @@ blockchain / ml·ai / full-stack / mobile
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fliirf&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=8b949e&cache_seconds=7200" alt="top languages" />
 </p>
 
+<p align="center">
+  <img height="280" src="https://github-readme-activity-graph.vercel.app/graph?username=fliirf&bg_color=0d1117&color=8b949e&line=a371f7&point=e6edf3&area=true&area_color=2d1b4e&hide_border=true&radius=10" alt="activity graph" />
+</p>
+
 <div align="center">
   <img src="profile-3d-city.svg" alt="contribution city" width="100%" />
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fliirf/fliirf/output/snake.svg" alt="snake" width="100%" />
+</p>
 
 <br />
 
