@@ -1,69 +1,89 @@
-<img src="assets/hero-atelier.svg" alt="Muhamad Rafli, Software Engineer based in Indonesia, open to selected collaborations. I design and build digital products where thoughtful interaction, clear systems, and useful technology meet." width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:000000,50:0d1117,100:000000&text=MUHAMAD%20RAFLI&fontSize=48&fontColor=e6edf3&fontAlignY=45&desc=v%20o%20i%20d&descSize=16&descColor=a371f7&descAlignY=72" width="100%" alt="header" />
 
-[LinkedIn](https://www.linkedin.com/in/muhamadrafli843/) · [Email](mailto:mhdrflii843@gmail.com)
-
-## About
-
-I enjoy turning ideas into digital products that feel useful, intentional, and enjoyable to use. My work spans different areas of technology, but I am always driven by the same thing: understanding problems and building thoughtful solutions.
-
-`Based in Indonesia · Open to collaborations · Always exploring`
-
-## Selected Work
-
-<img src="assets/projects/trustip-feature.svg" alt="Trustip artwork: escrow flow from funds locked, to delivery confirmed, to funds released, drawn over a ledger field" width="100%" />
-
-### Trustip
-
-Blockchain escrow for social-media commerce. A Soroban smart contract holds USDC and releases it only when the buyer confirms delivery, so no middleman ever touches the funds.
-
-`TypeScript · Next.js · Rust · Soroban · Stellar · Supabase`
-
-[View repository →](https://github.com/fliirf/Trustip)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=A371F7&center=true&vCenter=true&width=440&lines=software+engineer;blockchain+%2F+ai+%2F+full-stack;building+in+the+void" alt="typing" />
+</p>
 
 <br />
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/projects/poketto-thumb.svg" alt="Poketto thumbnail with monthly spending bars" width="100%" />
-      <h4>Poketto</h4>
-      <p>Personal finance tracker. One Laravel API serving a Next.js web app and a Flutter mobile app.</p>
-      <p><code>Laravel · Next.js · Flutter · PostgreSQL</code></p>
-      <p><a href="https://github.com/fliirf/poketto">View repository →</a> · In development</p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/projects/akhlak360-thumb.svg" alt="AKHLAK360 thumbnail with a radial diagram of six values" width="100%" />
-      <h4>AKHLAK360</h4>
-      <p>360-degree employee assessment across six core values, with multi-perspective feedback.</p>
-      <p><code>Laravel · MySQL · Chart.js</code></p>
-      <p><a href="https://github.com/fliirf/akhlak360">View repository →</a> · Complete, academic MVP</p>
-    </td>
-  </tr>
-</table>
+```console
+$ whoami
+software engineer. i build digital products and iterate on them
+step by step. the best part is the process: solving problems,
+experimenting with ideas, shipping things people actually use.
 
-## Activity
+$ cat focus
+blockchain / ml·ai / full-stack / mobile
+```
 
-<img src="assets/contribution-poster.svg" alt="Contribution calendar for the last 365 days, peak day highlighted in bronze" width="100%" />
+<br />
 
-## Selected Tools
+<p align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fliirf&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=8b949e&icon_color=a371f7&cache_seconds=7200" alt="stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=fliirf&hide_border=true&background=0d1117&ring=a371f7&fire=a371f7&currStreakLabel=a371f7&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=484f58&cache_seconds=86400" alt="streak" />
+</p>
 
-**Frontend**  
-TypeScript · React · Next.js · Flutter
+<p align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fliirf&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=8b949e&cache_seconds=7200" alt="top languages" />
+</p>
 
-**Backend & Data**  
-Laravel · PHP · PostgreSQL · MySQL
+<div align="center">
+  <img src="profile-3d-city.svg" alt="contribution city" width="100%" />
+</div>
 
-**Systems & Emerging**  
-Rust · Soroban · Stellar
+<br />
 
-## Current Focus
+<h3 align="center">stack</h3>
 
-**Building** · Digital products and developer tools  
-**Exploring** · Machine learning and decentralized systems  
-**Learning** · System design and product thinking
+<p align="center">
+  <img src="https://img.shields.io/badge/typescript-0d1117?style=flat-square&logo=typescript&logoColor=a371f7" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/javascript-0d1117?style=flat-square&logo=javascript&logoColor=a371f7" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/python-0d1117?style=flat-square&logo=python&logoColor=a371f7" alt="Python" />
+  <img src="https://img.shields.io/badge/go-0d1117?style=flat-square&logo=go&logoColor=a371f7" alt="Go" />
+  <img src="https://img.shields.io/badge/rust-0d1117?style=flat-square&logo=rust&logoColor=a371f7" alt="Rust" />
+  <img src="https://img.shields.io/badge/c%2B%2B-0d1117?style=flat-square&logo=cplusplus&logoColor=a371f7" alt="C++" />
+  <img src="https://img.shields.io/badge/php-0d1117?style=flat-square&logo=php&logoColor=a371f7" alt="PHP" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/react-0d1117?style=flat-square&logo=react&logoColor=a371f7" alt="React" />
+  <img src="https://img.shields.io/badge/next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=a371f7" alt="Next.js" />
+  <img src="https://img.shields.io/badge/vue-0d1117?style=flat-square&logo=vuedotjs&logoColor=a371f7" alt="Vue" />
+  <img src="https://img.shields.io/badge/tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=a371f7" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=a371f7" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express-0d1117?style=flat-square&logo=express&logoColor=a371f7" alt="Express" />
+  <img src="https://img.shields.io/badge/laravel-0d1117?style=flat-square&logo=laravel&logoColor=a371f7" alt="Laravel" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/postgresql-0d1117?style=flat-square&logo=postgresql&logoColor=a371f7" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/mysql-0d1117?style=flat-square&logo=mysql&logoColor=a371f7" alt="MySQL" />
+  <img src="https://img.shields.io/badge/mongodb-0d1117?style=flat-square&logo=mongodb&logoColor=a371f7" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/sqlite-0d1117?style=flat-square&logo=sqlite&logoColor=a371f7" alt="SQLite" />
+  <img src="https://img.shields.io/badge/docker-0d1117?style=flat-square&logo=docker&logoColor=a371f7" alt="Docker" />
+  <img src="https://img.shields.io/badge/aws-0d1117?style=flat-square&logo=amazonwebservices&logoColor=a371f7" alt="AWS" />
+  <img src="https://img.shields.io/badge/git-0d1117?style=flat-square&logo=git&logoColor=a371f7" alt="Git" />
+  <img src="https://img.shields.io/badge/figma-0d1117?style=flat-square&logo=figma&logoColor=a371f7" alt="Figma" />
+</p>
 
-## Let's build something thoughtful.
+<br />
 
-Open to selected projects, collaborations, and conversations.
+<h3 align="center">reach</h3>
 
-[LinkedIn](https://www.linkedin.com/in/muhamadrafli843/) · [Email](mailto:mhdrflii843@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhamadrafli843/">
+    <img src="https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=a371f7" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:mhdrflii843@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-0d1117?style=flat-square&logo=gmail&logoColor=a371f7" alt="Gmail" />
+  </a>
+</p>
+
+<br />
+
+<p align="center">
+  <sub><code>~ nothing here, on purpose ~</code></sub>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=fliirf&label=&color=0d1117&style=flat-square" alt="views" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=a371f7" width="100%" alt="" />
