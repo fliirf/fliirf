@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-label="About. I build across disciplines, but the goal stays the same: to understand a problem clearly and turn it into a thoughtful product.">
+  <defs>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.04 0"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="340" fill="#F5F2EB"/>
+  <rect width="1200" height="340" filter="url(#grain)"/>
+
+  <!-- oversized ghost numeral -->
+  <text x="1160" y="300" text-anchor="end" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, ui-sans-serif, sans-serif" font-size="260" font-weight="800" letter-spacing="-10" fill="#111111" opacity="0.06">02</text>
+
+  <text x="72" y="66" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, ui-sans-serif, sans-serif" font-size="12" letter-spacing="4" fill="#A68A5B">02 / ABOUT</text>
+  <line x1="72" y1="84" x2="1128" y2="84" stroke="#C5BFB4"/>
+
+  <text font-family="Inter, 'Helvetica Neue', Helvetica, Arial, ui-sans-serif, sans-serif" font-size="40" font-weight="700" letter-spacing="-1" fill="#111111">
+    <tspan x="72" y="156">I build across disciplines,</tspan>
+    <tspan x="72" y="206">but the goal stays the same:</tspan>
+  </text>
+  <text font-family="Georgia, 'Times New Roman', serif" font-size="23" font-style="italic" fill="#29483C">
+    <tspan x="76" y="262">to understand a problem clearly</tspan>
+    <tspan x="76" y="296">and turn it into a thoughtful product.</tspan>
+  </text>
+</svg>

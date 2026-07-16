@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" role="img" aria-label="Current focus. Building digital products and developer tools. Exploring machine learning and decentralized systems. Learning system design and product thinking.">
+  <defs>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.04 0"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="330" fill="#29483C"/>
+  <rect width="1200" height="330" filter="url(#grain)"/>
+
+  <text x="72" y="62" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, ui-sans-serif, sans-serif" font-size="12" letter-spacing="4" fill="#A68A5B">06 / CURRENT FOCUS</text>
+  <line x1="72" y1="80" x2="1128" y2="80" stroke="#3E5A4E"/>
+
+  <!-- three offset columns -->
+  <g font-family="Inter, 'Helvetica Neue', Helvetica, Arial, ui-sans-serif, sans-serif">
+    <g font-size="30" font-weight="800" letter-spacing="1" fill="#F5F2EB">
+      <text x="72" y="150">BUILDING</text>
+      <text x="452" y="196">EXPLORING</text>
+      <text x="832" y="242">LEARNING</text>
+    </g>
+    <g font-size="15" fill="#C9D2CC">
+      <text x="72" y="182">Digital products</text>
+      <text x="72" y="204">and developer tools</text>
+      <text x="452" y="228">Machine learning and</text>
+      <text x="452" y="250">decentralized systems</text>
+      <text x="832" y="274">System design and</text>
+      <text x="832" y="296">product thinking</text>
+    </g>
+    <g stroke="#3E5A4E">
+      <line x1="412" y1="110" x2="412" y2="300"/>
+      <line x1="792" y1="110" x2="792" y2="300"/>
+    </g>
+    <rect x="72" y="120" width="40" height="5" fill="#A68A5B"/>
+    <rect x="452" y="166" width="40" height="5" fill="#A68A5B"/>
+    <rect x="832" y="212" width="40" height="5" fill="#A68A5B"/>
+  </g>
+</svg>

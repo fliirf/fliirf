@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img" aria-label="Muhamad Rafli, Software Engineer, Indonesia. I design and build digital products where thoughtful interaction, clear systems, and useful technology meet. Available for selected collaborations.">
+  <defs>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="680" fill="#E9E5DC"/>
+  <rect width="1200" height="680" filter="url(#grain)"/>
+
+  <!-- architectural green panel, right -->
+  <rect x="856" y="0" width="344" height="680" fill="#29483C"/>
+  <rect x="856" y="0" width="344" height="680" filter="url(#grain)"/>
+
+  <!-- crop marks -->
+  <g stroke="#76726A">
+    <path d="M40 24v16M24 40h16"/><path d="M816 24v16M832 40h-16"/>
+    <path d="M40 656v-16M24 640h16"/><path d="M816 656v-16M832 640h-16"/>
+  </g>
+
+  <!-- top strip -->
+  <text x="72" y="78" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, ui-sans-serif, sans-serif" font-size="12" letter-spacing="4" fill="#76726A">MUHAMAD RAFLI / PORTFOLIO</text>
+  <text x="784" y="78" text-anchor="end" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, ui-sans-serif, sans-serif" font-size="12" letter-spacing="4" fill="#A68A5B">01 / PROFILE</text>
+  <line x1="72" y1="96" x2="784" y2="96" stroke="#C5BFB4"/>
+
+  <!-- monumental name -->
+  <text x="64" y="248" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, ui-sans-serif, sans-serif" font-size="150" font-weight="800" letter-spacing="-6" fill="#111111">MUHAMAD</text>
+  <text x="64" y="386" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, ui-sans-serif, sans-serif" font-size="150" font-weight="800" letter-spacing="-6" fill="#111111">RAFLI</text>
+  <!-- offset rule under name, bronze tick -->
+  <line x1="72" y1="422" x2="784" y2="422" stroke="#C5BFB4"/>
+  <rect x="72" y="419" width="64" height="6" fill="#A68A5B"/>
+
+  <text x="72" y="466" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, ui-sans-serif, sans-serif" font-size="17" letter-spacing="6" fill="#29483C" font-weight="600">SOFTWARE ENGINEER</text>
+
+  <!-- statement -->
+  <text font-family="Georgia, 'Times New Roman', serif" font-size="24" font-style="italic" fill="#292826">
+    <tspan x="72" y="530">I design and build digital products where thoughtful</tspan>
+    <tspan x="72" y="566">interaction, clear systems, and useful technology meet.</tspan>
+  </text>
+
+  <!-- footer strip -->
+  <line x1="72" y1="608" x2="784" y2="608" stroke="#C5BFB4"/>
+  <rect x="72" y="626" width="34" height="34" fill="#111111"/>
+  <text x="89" y="648" text-anchor="middle" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, ui-sans-serif, sans-serif" font-size="13" font-weight="700" fill="#E9E5DC">MR</text>
+  <text x="784" y="648" text-anchor="end" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, ui-sans-serif, sans-serif" font-size="12" letter-spacing="3" fill="#76726A">GITHUB.COM/FLIIRF</text>
+
+  <!-- green panel contents -->
+  <g font-family="Inter, 'Helvetica Neue', Helvetica, Arial, ui-sans-serif, sans-serif">
+    <text x="908" y="120" font-size="11" letter-spacing="4" fill="#A68A5B">INDEX</text>
+    <g font-size="15" fill="#F5F2EB">
+      <text x="908" y="156">01 Profile</text>
+      <text x="908" y="186">02 About</text>
+      <text x="908" y="216">03 Selected Work</text>
+      <text x="908" y="246">04 Activity</text>
+      <text x="908" y="276">05 Tools</text>
+      <text x="908" y="306">06 Focus</text>
+      <text x="908" y="336">07 Contact</text>
+    </g>
+    <line x1="908" y1="372" x2="1148" y2="372" stroke="#3E5A4E"/>
+    <text x="908" y="410" font-size="11" letter-spacing="4" fill="#A68A5B">LOCATION</text>
+    <text x="908" y="436" font-size="16" fill="#F5F2EB">Indonesia</text>
+    <text x="908" y="486" font-size="11" letter-spacing="4" fill="#A68A5B">STATUS</text>
+    <text x="908" y="512" font-size="16" fill="#F5F2EB">Open to selected</text>
+    <text x="908" y="536" font-size="16" fill="#F5F2EB">collaborations</text>
+    <line x1="908" y1="576" x2="1148" y2="576" stroke="#3E5A4E"/>
+    <text x="908" y="614" font-size="11" letter-spacing="4" fill="#A68A5B">CONTACT</text>
+    <text x="908" y="640" font-size="16" fill="#F5F2EB">LinkedIn / Email</text>
+  </g>
+</svg>

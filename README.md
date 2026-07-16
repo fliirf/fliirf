@@ -1,61 +1,22 @@
-<img src="assets/hero-editorial.svg" alt="Muhamad Rafli, Software Engineer. I design and build digital products with a focus on clarity, usefulness, and thoughtful execution. Based in Indonesia, available for selected collaborations." width="100%" />
+<img src="assets/hero-atelier.svg" alt="Muhamad Rafli, Software Engineer, Indonesia. I design and build digital products where thoughtful interaction, clear systems, and useful technology meet. Open to selected collaborations." width="100%" />
 
-<br />
+<img src="assets/sections/about.svg" alt="About: I build across disciplines, but the goal stays the same: to understand a problem clearly and turn it into a thoughtful product." width="100%" />
 
-## 02 / About
-
-I enjoy turning ideas into digital products that feel useful, intentional, and enjoyable to use. My work spans different areas of technology, but I am always driven by the same thing: understanding problems and building thoughtful solutions.
-
-<br />
-
-## 03 / Selected Work
-
-<a href="https://github.com/fliirf/Trustip"><img src="assets/projects/trustip-editorial.svg" alt="Trustip, featured project. Escrow platform for social commerce on Stellar." width="100%" /></a>
-
-**Trustip** · Escrow platform · Solo developer · [Repository](https://github.com/fliirf/Trustip)
-Peer-to-peer commerce on social media, with USDC locked in a Soroban smart contract until the buyer confirms delivery.
+<a href="https://github.com/fliirf/Trustip"><img src="assets/projects/trustip-feature.svg" alt="Trustip, featured project. Escrow platform for social commerce on Stellar. Funds lock in a smart contract and release when the buyer confirms delivery. TypeScript, Next.js, Rust, Supabase. Active." width="100%" /></a>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/fliirf/poketto"><img src="assets/projects/poketto-editorial.svg" alt="Poketto, personal finance tracker." width="100%" /></a>
-      <p><strong>Poketto</strong> · Finance tool · Solo developer · <a href="https://github.com/fliirf/poketto">Repository</a><br />
-      One Laravel API serving a Next.js web app and a Flutter mobile app.</p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/fliirf/akhlak360"><img src="assets/projects/akhlak360-editorial.svg" alt="AKHLAK360, employee assessment system." width="100%" /></a>
-      <p><strong>AKHLAK360</strong> · Assessment system · Solo developer · <a href="https://github.com/fliirf/akhlak360">Repository</a><br />
-      360-degree employee evaluation across six core values, with multi-perspective feedback.</p>
-    </td>
+    <td width="50%"><a href="https://github.com/fliirf/poketto"><img src="assets/projects/poketto-editorial.svg" alt="Poketto, personal finance tracker. One Laravel API serving Next.js web and Flutter mobile. In development." width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/fliirf/akhlak360"><img src="assets/projects/akhlak360-editorial.svg" alt="AKHLAK360, employee assessment system. 360-degree evaluation across six core values. Complete academic MVP." width="100%" /></a></td>
   </tr>
 </table>
 
-<br />
+<img src="assets/contribution-poster.svg" alt="Annual activity poster showing my GitHub contribution calendar for the past year" width="100%" />
 
-## 04 / Contributions
+<img src="assets/sections/tools-index.svg" alt="Selected tools index: TypeScript, React, Next.js, Laravel, PHP, Flutter, PostgreSQL, MySQL, Rust, Soroban" width="100%" />
 
-<img src="assets/profile-3d-city.svg" alt="Isometric visualization of my GitHub contribution activity over the last year" width="100%" />
+<img src="assets/sections/current-focus.svg" alt="Current focus: building digital products and developer tools, exploring machine learning and decentralized systems, learning system design and product thinking" width="100%" />
 
-<br />
+<img src="assets/sections/contact-footer.svg" alt="Let's build something thoughtful. Open to selected projects, collaborations, and conversations." width="100%" />
 
-## 05 / Selected Tools
-
-<img src="assets/tools-editorial.svg" alt="Selected tools: TypeScript, React, Next.js, Laravel, PHP, Flutter, PostgreSQL, MySQL, Rust with Soroban" width="100%" />
-
-<br />
-
-## 06 / Current Focus
-
-<img src="assets/focus-editorial.svg" alt="Current focus: building digital products and developer tools, exploring machine learning and decentralized systems, learning better system design and product thinking" width="100%" />
-
-<br />
-
-## 07 / Contact
-
-Open to thoughtful projects, collaborations, and conversations.
-
-**[LinkedIn](https://www.linkedin.com/in/muhamadrafli843/)** · **[Email](mailto:mhdrflii843@gmail.com)**
-
-<br />
-
-<sub>Muhamad Rafli · github.com/fliirf</sub>
+<p align="right"><strong><a href="https://www.linkedin.com/in/muhamadrafli843/">LinkedIn</a></strong> · <strong><a href="mailto:mhdrflii843@gmail.com">Email</a></strong></p>
