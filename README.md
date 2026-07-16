@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:000000,50:0d1117,100:000000&text=MUHAMAD%20RAFLI&fontSize=48&fontColor=e6edf3&fontAlignY=45&desc=v%20o%20i%20d&descSize=16&descColor=a371f7&descAlignY=72" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:000000,50:0d1117,100:000000&text=MUHAMAD%20RAFLI&fontSize=48&fontColor=e6edf3&fontAlignY=45&desc=software%20engineer&descSize=16&descColor=a371f7&descAlignY=72" width="100%" alt="header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=A371F7&center=true&vCenter=true&width=440&lines=software+engineer;blockchain+%2F+ai+%2F+full-stack;building+in+the+void" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=A371F7&center=true&vCenter=true&width=440&lines=software+engineer;blockchain+%2F+ai+%2F+full-stack" alt="typing" />
 </p>
 
 <br />
