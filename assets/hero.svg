@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-label="Muhamad Rafli — Software Engineer">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <radialGradient id="orbPurple" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbBlue" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="420" rx="16" fill="#07070A"/>
+  <rect width="1200" height="420" rx="16" fill="url(#grid)"/>
+  <circle cx="1020" cy="80" r="260" fill="url(#orbPurple)"/>
+  <circle cx="1120" cy="340" r="220" fill="url(#orbBlue)"/>
+  <rect x="0.5" y="0.5" width="1199" height="419" rx="16" fill="none" stroke="rgba(255,255,255,0.08)"/>
+
+  <!-- architectural lines -->
+  <line x1="80" y1="0" x2="80" y2="420" stroke="rgba(255,255,255,0.06)"/>
+  <line x1="0" y1="352" x2="1200" y2="352" stroke="rgba(255,255,255,0.06)"/>
+  <rect x="960" y="120" width="150" height="150" rx="4" fill="none" stroke="rgba(139,92,246,0.35)"/>
+  <rect x="1000" y="160" width="150" height="150" rx="4" fill="none" stroke="rgba(56,189,248,0.25)"/>
+  <circle cx="1035" cy="195" r="3" fill="#8B5CF6"/>
+  <circle cx="1075" cy="235" r="3" fill="#38BDF8"/>
+
+  <!-- technical labels -->
+  <text x="120" y="86" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="4" fill="#8B8B9A">OBSIDIAN FUTURE — v2.0</text>
+  <text x="920" y="86" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="2" fill="#8B8B9A" text-anchor="end">/// ID — GMT+7</text>
+  <line x1="120" y1="102" x2="220" y2="102" stroke="url(#accent)" stroke-width="2"/>
+
+  <!-- name + role -->
+  <text x="118" y="196" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="72" font-weight="700" fill="#F4F4F5">Muhamad Rafli</text>
+  <text x="120" y="242" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" letter-spacing="6" fill="url(#accent)">SOFTWARE ENGINEER</text>
+  <text x="120" y="290" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#8B8B9A">Building thoughtful products through code and curiosity.</text>
+
+  <!-- footer chips -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" fill="#8B8B9A">
+    <rect x="120" y="368" width="96" height="30" rx="15" fill="#111118" stroke="rgba(255,255,255,0.08)"/>
+    <text x="168" y="387" text-anchor="middle" fill="#F4F4F5">LINKEDIN</text>
+    <rect x="228" y="368" width="96" height="30" rx="15" fill="#111118" stroke="rgba(255,255,255,0.08)"/>
+    <text x="276" y="387" text-anchor="middle" fill="#F4F4F5">EMAIL</text>
+    <text x="1080" y="388" text-anchor="end">github.com/fliirf</text>
+  </g>
+</svg>

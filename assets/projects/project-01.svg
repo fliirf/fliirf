@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 260" role="img" aria-label="Trustip — blockchain escrow for social commerce">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <radialGradient id="orb" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="260" rx="14" fill="#111118"/>
+  <rect width="800" height="260" rx="14" fill="url(#grid)"/>
+  <circle cx="700" cy="40" r="180" fill="url(#orb)"/>
+  <rect x="0.5" y="0.5" width="799" height="259" rx="14" fill="none" stroke="rgba(255,255,255,0.08)"/>
+  <text x="48" y="66" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="4" fill="#8B8B9A">SELECTED WORK — 01</text>
+  <line x1="48" y1="80" x2="120" y2="80" stroke="url(#accent)" stroke-width="2"/>
+  <text x="46" y="140" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#F4F4F5">Trustip</text>
+  <text x="48" y="176" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#8B8B9A">Smart-contract escrow for social-media commerce on Stellar.</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#8B8B9A">
+    <rect x="48" y="200" width="120" height="26" rx="13" fill="#07070A" stroke="rgba(255,255,255,0.08)"/>
+    <text x="108" y="217" text-anchor="middle">TYPESCRIPT</text>
+    <rect x="180" y="200" width="120" height="26" rx="13" fill="#07070A" stroke="rgba(255,255,255,0.08)"/>
+    <text x="240" y="217" text-anchor="middle">SOROBAN</text>
+    <text x="752" y="217" text-anchor="end" fill="#8B5CF6">STATUS — ACTIVE</text>
+  </g>
+</svg>
