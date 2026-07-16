@@ -18,6 +18,55 @@ blockchain / ml·ai / full-stack / mobile
 
 <br />
 
+<h3 align="center">projects</h3>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center"><a href="https://github.com/fliirf/Trustip">trustip</a></h4>
+      <p align="center"><sub>Protected checkout for social commerce on Stellar. Buyer's USDC is locked in a Soroban smart-contract escrow until the order is confirmed received.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/typescript-0d1117?style=flat-square&logo=typescript&logoColor=a371f7" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/rust-0d1117?style=flat-square&logo=rust&logoColor=a371f7" alt="Rust" />
+        <img src="https://img.shields.io/badge/stellar-0d1117?style=flat-square&logo=stellar&logoColor=a371f7" alt="Stellar" />
+        <img src="https://img.shields.io/badge/postgresql-0d1117?style=flat-square&logo=postgresql&logoColor=a371f7" alt="PostgreSQL" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center"><a href="https://github.com/fliirf/poketto">poketto</a></h4>
+      <p align="center"><sub>Personal finance tracker monorepo: Laravel REST API, Next.js web frontend, and a Flutter mobile app consuming the same API with offline SQLite fallback.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/laravel-0d1117?style=flat-square&logo=laravel&logoColor=a371f7" alt="Laravel" />
+        <img src="https://img.shields.io/badge/next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=a371f7" alt="Next.js" />
+        <img src="https://img.shields.io/badge/flutter-0d1117?style=flat-square&logo=flutter&logoColor=a371f7" alt="Flutter" />
+        <img src="https://img.shields.io/badge/mysql-0d1117?style=flat-square&logo=mysql&logoColor=a371f7" alt="MySQL" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center"><a href="https://github.com/fliirf/akhlak360">akhlak360</a></h4>
+      <p align="center"><sub>360° employee assessment web app for AKHLAK core values: weighted scoring, gap analysis, individual development plans, talent mapping, and role-based dashboards.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/laravel-0d1117?style=flat-square&logo=laravel&logoColor=a371f7" alt="Laravel" />
+        <img src="https://img.shields.io/badge/php-0d1117?style=flat-square&logo=php&logoColor=a371f7" alt="PHP" />
+        <img src="https://img.shields.io/badge/mysql-0d1117?style=flat-square&logo=mysql&logoColor=a371f7" alt="MySQL" />
+        <img src="https://img.shields.io/badge/chart.js-0d1117?style=flat-square&logo=chartdotjs&logoColor=a371f7" alt="Chart.js" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center"><a href="https://github.com/fliirf/UMKMGo">umkmgo</a></h4>
+      <p align="center"><sub>Cross-platform mobile app for Indonesian small businesses (UMKM), built with Flutter.</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/flutter-0d1117?style=flat-square&logo=flutter&logoColor=a371f7" alt="Flutter" />
+        <img src="https://img.shields.io/badge/dart-0d1117?style=flat-square&logo=dart&logoColor=a371f7" alt="Dart" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
 <p align="center">
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fliirf&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=8b949e&icon_color=a371f7&cache_seconds=7200" alt="stats" />
   <img height="165" src="https://streak-stats.demolab.com/?user=fliirf&hide_border=true&background=0d1117&ring=a371f7&fire=a371f7&currStreakLabel=a371f7&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=484f58&cache_seconds=86400" alt="streak" />
