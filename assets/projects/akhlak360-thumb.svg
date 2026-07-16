@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="AKHLAK360 thumbnail: radial diagram of six evaluation values around a bronze center point.">
+  <defs>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.04 0"/>
+    </filter>
+  </defs>
+  <rect width="600" height="400" fill="#F5F2EB"/>
+  <rect width="600" height="400" filter="url(#grain)"/>
+
+  <text x="44" y="72" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, ui-sans-serif, sans-serif" font-size="30" font-weight="800" letter-spacing="-1" fill="#111111">AKHLAK360</text>
+
+  <g stroke="#C5BFB4" fill="none">
+    <circle cx="300" cy="238" r="104"/>
+    <circle cx="300" cy="238" r="68"/>
+  </g>
+  <g stroke="#292826">
+    <line x1="300" y1="134" x2="300" y2="170"/>
+    <line x1="390" y1="186" x2="359" y2="204"/>
+    <line x1="390" y1="290" x2="359" y2="272"/>
+    <line x1="300" y1="342" x2="300" y2="306"/>
+    <line x1="210" y1="290" x2="241" y2="272"/>
+    <line x1="210" y1="186" x2="241" y2="204"/>
+  </g>
+  <circle cx="300" cy="238" r="6" fill="#A68A5B"/>
+  <g font-family="Inter, 'Helvetica Neue', Helvetica, Arial, ui-sans-serif, sans-serif" font-size="11" letter-spacing="2" fill="#292826">
+    <text x="300" y="120" text-anchor="middle">AMANAH</text>
+    <text x="404" y="180" text-anchor="start">KOMPETEN</text>
+    <text x="404" y="304" text-anchor="start">HARMONIS</text>
+    <text x="300" y="366" text-anchor="middle">LOYAL</text>
+    <text x="196" y="304" text-anchor="end">ADAPTIF</text>
+    <text x="196" y="180" text-anchor="end">KOLABORATIF</text>
+  </g>
+</svg>

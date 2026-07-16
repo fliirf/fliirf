@@ -4,7 +4,6 @@ Palette and layout follow the Monumental Digital Atelier system used by the
 other assets in this repository. Runs in CI with only the standard library.
 """
 
-import datetime
 import json
 import os
 import urllib.request
@@ -58,9 +57,7 @@ def render(cal):
     total = cal["totalContributions"]
     days = [d for w in weeks for d in w["contributionDays"]]
     peak = max((d["contributionCount"] for d in days), default=0)
-    year = datetime.date.today().year
-
-    grid_x, grid_y = 72.0, 260.0
+    grid_x, grid_y = 72.0, 104.0
     pitch = 1056.0 / len(weeks)
     cell = pitch - 4.0
 
@@ -75,32 +72,23 @@ def render(cal):
             )
 
     grid_h = 7 * pitch
-    foot_y = grid_y + grid_h + 46
+    height = grid_y + grid_h + 40
 
-    svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 {foot_y + 54:.0f}" role="img" aria-label="Annual activity poster: {total} contributions on GitHub over the last year.">
+    svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 {height:.0f}" role="img" aria-label="Contribution calendar: {total} contributions on GitHub over the last year, peak day highlighted in bronze.">
   <defs>
     <filter id="grain">
       <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" stitchTiles="stitch"/>
       <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.04 0"/>
     </filter>
   </defs>
-  <rect width="1200" height="{foot_y + 54:.0f}" fill="#E9E5DC"/>
-  <rect width="1200" height="{foot_y + 54:.0f}" filter="url(#grain)"/>
+  <rect width="1200" height="{height:.0f}" fill="#F5F2EB"/>
+  <rect width="1200" height="{height:.0f}" filter="url(#grain)"/>
 
-  <text x="72" y="66" font-family="{FONT}" font-size="12" letter-spacing="4" fill="{BRONZE}">04 / ACTIVITY</text>
-  <text x="1128" y="66" text-anchor="end" font-family="{FONT}" font-size="12" letter-spacing="4" fill="#76726A">365 DAYS</text>
-  <line x1="72" y1="84" x2="1128" y2="84" stroke="#C5BFB4"/>
-
-  <text x="66" y="222" font-family="{FONT}" font-size="130" font-weight="800" letter-spacing="-5" fill="#111111">{year}</text>
-  <text x="1128" y="222" text-anchor="end" font-family="{FONT}" font-size="15" fill="#76726A">{total} contributions</text>
+  <text x="72" y="60" font-family="{FONT}" font-size="12" letter-spacing="4" fill="{BRONZE}">LAST 365 DAYS</text>
+  <text x="1128" y="60" text-anchor="end" font-family="{FONT}" font-size="14" fill="#292826">{total} contributions</text>
+  <line x1="72" y1="76" x2="1128" y2="76" stroke="#C5BFB4"/>
 
   {''.join(cells)}
-
-  <line x1="72" y1="{foot_y - 26:.0f}" x2="1128" y2="{foot_y - 26:.0f}" stroke="#C5BFB4"/>
-  <g font-family="{FONT}" font-size="12" letter-spacing="2" fill="#76726A">
-    <text x="72" y="{foot_y:.0f}">OPEN SOURCE / EXPERIMENTS / PRODUCT WORK</text>
-    <text x="1128" y="{foot_y:.0f}" text-anchor="end">PEAK DAY IN BRONZE</text>
-  </g>
 </svg>
 """
     with open(OUT, "w", encoding="utf-8") as f:

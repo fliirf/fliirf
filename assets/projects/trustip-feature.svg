@@ -1,54 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-label="Trustip, featured project. Escrow platform for social commerce on Stellar. Funds lock in a smart contract, release only when the buyer confirms delivery.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-label="Trustip artwork: escrow flow from funds locked, to delivery confirmed, to funds released, drawn as three connected states over a ledger field.">
   <defs>
     <filter id="grain">
       <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" stitchTiles="stitch"/>
       <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.04 0"/>
     </filter>
   </defs>
-  <rect width="1200" height="560" fill="#F5F2EB"/>
-  <rect width="1200" height="560" filter="url(#grain)"/>
+  <rect width="1200" height="520" fill="#F5F2EB"/>
+  <rect width="1200" height="520" filter="url(#grain)"/>
 
-  <!-- oversized bronze feature numeral -->
-  <text x="1150" y="230" text-anchor="end" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, ui-sans-serif, sans-serif" font-size="210" font-weight="800" letter-spacing="-8" fill="#A68A5B" opacity="0.28">01</text>
+  <!-- wordmark -->
+  <text x="68" y="96" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, ui-sans-serif, sans-serif" font-size="44" font-weight="800" letter-spacing="-1" fill="#111111">TRUSTIP</text>
+  <text x="1132" y="92" text-anchor="end" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, ui-sans-serif, sans-serif" font-size="12" letter-spacing="3" fill="#A68A5B">ESCROW ON STELLAR</text>
 
-  <text x="72" y="66" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, ui-sans-serif, sans-serif" font-size="12" letter-spacing="4" fill="#A68A5B">03 / SELECTED WORK · FEATURED</text>
-  <text x="1128" y="66" text-anchor="end" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, ui-sans-serif, sans-serif" font-size="12" letter-spacing="4" fill="#76726A">STELLAR / SOROBAN</text>
-  <line x1="72" y1="84" x2="1128" y2="84" stroke="#C5BFB4"/>
+  <!-- faint ledger field behind the flow -->
+  <g stroke="#DDD8CC">
+    <line x1="68" y1="170" x2="1132" y2="170"/>
+    <line x1="68" y1="216" x2="1132" y2="216"/>
+    <line x1="68" y1="262" x2="1132" y2="262"/>
+    <line x1="68" y1="308" x2="1132" y2="308"/>
+    <line x1="68" y1="354" x2="1132" y2="354"/>
+  </g>
+  <g font-family="ui-monospace, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#C5BFB4">
+    <text x="68" y="162">ESCROW 0041 · 128.00 USDC · RELEASED</text>
+    <text x="68" y="208">ESCROW 0042 · 54.50 USDC · RELEASED</text>
+    <text x="68" y="254">ESCROW 0043 · 210.00 USDC · LOCKED</text>
+  </g>
 
-  <text x="66" y="186" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, ui-sans-serif, sans-serif" font-size="88" font-weight="800" letter-spacing="-3" fill="#111111">TRUSTIP</text>
-  <text font-family="Georgia, 'Times New Roman', serif" font-size="21" font-style="italic" fill="#292826">
-    <tspan x="72" y="234">Escrow for social commerce. Funds lock in a smart contract,</tspan>
-    <tspan x="72" y="266">release only when the buyer confirms delivery.</tspan>
-  </text>
-
-  <!-- escrow state flow -->
+  <!-- escrow state flow, the main artwork -->
   <g font-family="Inter, 'Helvetica Neue', Helvetica, Arial, ui-sans-serif, sans-serif">
-    <rect x="72" y="316" width="300" height="120" fill="none" stroke="#292826"/>
-    <text x="96" y="352" font-size="12" letter-spacing="3" fill="#A68A5B">STATE 01</text>
-    <text x="96" y="384" font-size="20" font-weight="600" fill="#111111">Funds locked</text>
-    <text x="96" y="410" font-size="14" fill="#76726A">Buyer pays into contract</text>
+    <rect x="88" y="286" width="296" height="132" fill="#F5F2EB" stroke="#292826"/>
+    <text x="114" y="330" font-size="12" letter-spacing="3" fill="#A68A5B">01</text>
+    <text x="114" y="364" font-size="22" font-weight="700" fill="#111111">Funds locked</text>
+    <text x="114" y="392" font-size="14" fill="#76726A">Buyer pays into contract</text>
 
-    <line x1="372" y1="376" x2="450" y2="376" stroke="#292826"/>
-    <path d="M444 370l8 6-8 6" fill="none" stroke="#292826"/>
+    <line x1="384" y1="352" x2="452" y2="352" stroke="#292826"/>
+    <path d="M446 346l8 6-8 6" fill="none" stroke="#292826"/>
 
-    <rect x="450" y="316" width="300" height="120" fill="none" stroke="#292826"/>
-    <text x="474" y="352" font-size="12" letter-spacing="3" fill="#A68A5B">STATE 02</text>
-    <text x="474" y="384" font-size="20" font-weight="600" fill="#111111">Delivery confirmed</text>
-    <text x="474" y="410" font-size="14" fill="#76726A">Buyer verifies the order</text>
+    <rect x="452" y="286" width="296" height="132" fill="#F5F2EB" stroke="#292826"/>
+    <text x="478" y="330" font-size="12" letter-spacing="3" fill="#A68A5B">02</text>
+    <text x="478" y="364" font-size="22" font-weight="700" fill="#111111">Delivery confirmed</text>
+    <text x="478" y="392" font-size="14" fill="#76726A">Buyer verifies the order</text>
 
-    <line x1="750" y1="376" x2="828" y2="376" stroke="#292826"/>
-    <path d="M822 370l8 6-8 6" fill="none" stroke="#292826"/>
+    <line x1="748" y1="352" x2="816" y2="352" stroke="#292826"/>
+    <path d="M810 346l8 6-8 6" fill="none" stroke="#292826"/>
 
-    <rect x="828" y="316" width="300" height="120" fill="#29483C"/>
-    <text x="852" y="352" font-size="12" letter-spacing="3" fill="#A68A5B">STATE 03</text>
-    <text x="852" y="384" font-size="20" font-weight="600" fill="#F5F2EB">Funds released</text>
-    <text x="852" y="410" font-size="14" fill="#C9D2CC">Seller receives USDC</text>
+    <rect x="816" y="286" width="296" height="132" fill="#29483C"/>
+    <text x="842" y="330" font-size="12" letter-spacing="3" fill="#A68A5B">03</text>
+    <text x="842" y="364" font-size="22" font-weight="700" fill="#F5F2EB">Funds released</text>
+    <text x="842" y="392" font-size="14" fill="#C9D2CC">Seller receives USDC</text>
   </g>
 
-  <line x1="72" y1="486" x2="1128" y2="486" stroke="#C5BFB4"/>
-  <g font-family="Inter, 'Helvetica Neue', Helvetica, Arial, ui-sans-serif, sans-serif" font-size="13" letter-spacing="1" fill="#76726A">
-    <text x="72" y="522">ROLE / SOLO DEVELOPER</text>
-    <text x="420" y="522">TYPESCRIPT · NEXT.JS · RUST · SUPABASE</text>
-    <text x="1128" y="522" text-anchor="end" fill="#29483C" font-weight="600">STATUS / ACTIVE</text>
-  </g>
+  <text x="68" y="478" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#76726A">No middleman holding funds. No leap of faith.</text>
 </svg>
