@@ -77,7 +77,7 @@ blockchain / ml·ai / full-stack / mobile
 </p>
 
 <p align="center">
-  <img height="280" src="https://github-readme-activity-graph.vercel.app/graph?username=fliirf&bg_color=0d1117&color=8b949e&line=a371f7&point=e6edf3&area=true&area_color=2d1b4e&hide_border=true&radius=10" alt="activity graph" />
+  <img src="assets/contribution-poster.svg" alt="contribution calendar" width="100%" />
 </p>
 
 <div align="center">
